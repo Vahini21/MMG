@@ -1,6 +1,6 @@
 streamlit
-google-generativeai
+openai
 pandas
-numpy
+torch
+transformers
 requests
-python-dotenv
