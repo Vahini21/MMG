@@ -1,6 +1,5 @@
 streamlit
 google-generativeai
-openai  # (if using OpenAI models as well)
 pandas
 numpy
 requests
