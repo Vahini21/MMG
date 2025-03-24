@@ -3,4 +3,4 @@ google-generativeai
 pandas
 numpy
 requests
-dotenv-python
+python-dotenv
